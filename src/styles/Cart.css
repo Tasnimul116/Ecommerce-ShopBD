@@ -1,0 +1,25 @@
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+td i{
+    cursor: pointer;
+}
+
+td{
+    color: var(--primary-color);
+}
+
+button{
+    background: var(--primary-color);
+}
+
+.cart_btn{
+    background: var(--primary-color);
+    color: #fff;
+    padding:5px ;
+    border-radius: 5px;
+    width: 100%;
+}
